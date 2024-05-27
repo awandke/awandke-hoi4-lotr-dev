@@ -245,4 +245,9 @@ technology_folders = {
 			is_men = yes
 		}
 	}
+	ents_special_folder = {
+		available = {
+			is_ents = yes
+		}
+	}
 }
